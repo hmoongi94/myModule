@@ -2,3 +2,4 @@
 1. react, typescript
 2. nest.js
 3. mariaDB
+4. webpack, babel
